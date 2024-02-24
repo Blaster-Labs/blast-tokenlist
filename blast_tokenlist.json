@@ -1,0 +1,45 @@
+{
+  "name": "BlasterDEX Token List - Blast L2",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/blast-logo%20256.png",
+  "keywords": ["blast", "blaster", "blasterdex", "l2"],
+  "timestamp": "2024-02-20T20:00:00.000+00:00",
+  "tokens": [
+    {
+      "name": "BNB",
+      "address": "0x4B93f66098cdF3Fd159AaC160E54A75D681aa15f",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 168587773,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0x4B93f66098cdF3Fd159AaC160E54A75D681aa15f.png"
+    },
+    {
+      "name": "DOGE",
+      "address": "0xC8673ee88295D3E4b8034533037eCfBE003Da1B0",
+      "symbol": "DOGE",
+      "decimals": 18,
+      "chainId": 168587773,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0xC8673ee88295D3E4b8034533037eCfBE003Da1B0.png"
+    },
+    {
+      "name": "Bitcoin",
+      "address": "0x4154Cf4035F095ba98D5408adc750b7a5324aEe4",
+      "symbol": "BTC",
+      "decimals": 18,
+      "chainId": 168587773,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0x4154Cf4035F095ba98D5408adc750b7a5324aEe4.png"
+    },
+    {
+      "name": "USDC",
+      "address": "0xda9C093a7D9e41d21Dc9A7ff5601A3FD02111d95",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 168587773,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0xda9C093a7D9e41d21Dc9A7ff5601A3FD02111d95.png"
+    }
+  ]
+}
