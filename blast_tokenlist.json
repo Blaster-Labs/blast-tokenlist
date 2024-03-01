@@ -2,12 +2,12 @@
   "name": "BlasterDEX Token List - Blast L2",
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/blast-logo%20256.png",
   "keywords": ["blast", "blaster", "blasterdex", "l2"],
-  "timestamp": "2024-02-20T20:00:00.000+00:00",
+  "timestamp": "2024-02-27T20:00:00.000+00:00",
   "tokens": [
     {
       "name": "BNB",
@@ -40,6 +40,46 @@
       "decimals": 6,
       "chainId": 168587773,
       "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0xda9C093a7D9e41d21Dc9A7ff5601A3FD02111d95.png"
+    },
+    {
+      "name": "USDB",
+      "address": "0x4300000000000000000000000000000000000003",
+      "symbol": "USDB",
+      "decimals": 18,
+      "chainId": 81457,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0x4300000000000000000000000000000000000003.png"
+    },
+    {
+      "name": "Glory",
+      "address": "0xd582879453337BD149Ae53EC2092B0af5281d1D7",
+      "symbol": "GLORY",
+      "decimals": 18,
+      "chainId": 81457,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0xd582879453337BD149Ae53EC2092B0af5281d1D7.png"
+    },
+    {
+      "name": "BlastCat",
+      "address": "0x9bD75c164dAf830733AC2EA71A0258f95aac7C57",
+      "symbol": "BCat",
+      "decimals": 18,
+      "chainId": 81457,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0x9bD75c164dAf830733AC2EA71A0258f95aac7C57.png"
+    },
+    {
+      "name": "Blast INU",
+      "address": "0x34050224F9eA1859790b7CBBBe2264f1204771A6",
+      "symbol": "BINU",
+      "decimals": 18,
+      "chainId": 81457,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0x34050224F9eA1859790b7CBBBe2264f1204771A6.png"
+    },
+    {
+      "name": "Blast MIA",
+      "address": "0xA4C7aA67189EC5623121c6C94Ec757DfeD932D4B",
+      "symbol": "MIA",
+      "decimals": 18,
+      "chainId": 81457,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0xA4C7aA67189EC5623121c6C94Ec757DfeD932D4B.png"
     }
   ]
 }
