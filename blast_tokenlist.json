@@ -2,45 +2,13 @@
   "name": "BlasterDEX Token List - Blast L2",
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/blast-logo%20256.png",
   "keywords": ["blast", "blaster", "blasterdex", "l2"],
-  "timestamp": "2024-02-27T20:00:00.000+00:00",
+  "timestamp": "2024-03-15T20:00:00.000+00:00",
   "tokens": [
-    {
-      "name": "BNB",
-      "address": "0x4B93f66098cdF3Fd159AaC160E54A75D681aa15f",
-      "symbol": "BNB",
-      "decimals": 18,
-      "chainId": 168587773,
-      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0x4B93f66098cdF3Fd159AaC160E54A75D681aa15f.png"
-    },
-    {
-      "name": "DOGE",
-      "address": "0xC8673ee88295D3E4b8034533037eCfBE003Da1B0",
-      "symbol": "DOGE",
-      "decimals": 18,
-      "chainId": 168587773,
-      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0xC8673ee88295D3E4b8034533037eCfBE003Da1B0.png"
-    },
-    {
-      "name": "Bitcoin",
-      "address": "0x4154Cf4035F095ba98D5408adc750b7a5324aEe4",
-      "symbol": "BTC",
-      "decimals": 18,
-      "chainId": 168587773,
-      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0x4154Cf4035F095ba98D5408adc750b7a5324aEe4.png"
-    },
-    {
-      "name": "USDC",
-      "address": "0xda9C093a7D9e41d21Dc9A7ff5601A3FD02111d95",
-      "symbol": "USDC",
-      "decimals": 6,
-      "chainId": 168587773,
-      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0xda9C093a7D9e41d21Dc9A7ff5601A3FD02111d95.png"
-    },
     {
       "name": "USDB",
       "address": "0x4300000000000000000000000000000000000003",
@@ -80,6 +48,110 @@
       "decimals": 18,
       "chainId": 81457,
       "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0xA4C7aA67189EC5623121c6C94Ec757DfeD932D4B.png"
+    },
+    {
+      "name": "Yield Token",
+      "address": "0x67fa2887914fA3729e9EED7630294Fe124f417A0",
+      "symbol": "YIELD",
+      "decimals": 18,
+      "chainId": 81457,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0x67fa2887914fA3729e9EED7630294Fe124f417A0.png"
+    },
+    {
+      "name": "Renzo Restaked ETH",
+      "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+      "symbol": "ezETH",
+      "decimals": 18,
+      "chainId": 81457,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0x2416092f143378750bb29b79eD961ab195CcEea5.png"
+    },
+    {
+      "name": "OLE OpenLeverage",
+      "address": "0x73c369F61c90f03eb0Dd172e95c90208A28dC5bc",
+      "symbol": "OLE",
+      "decimals": 18,
+      "chainId": 81457,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0x73c369F61c90f03eb0Dd172e95c90208A28dC5bc.png"
+    },
+    {
+      "name": "PacMoon",
+      "address": "0x5ffd9EbD27f2fcAB044c0f0a26A45Cb62fa29c06",
+      "symbol": "PAC",
+      "decimals": 18,
+      "chainId": 81457,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0x5ffd9EbD27f2fcAB044c0f0a26A45Cb62fa29c06.png"
+    },
+    {
+      "name": "Juice Finance",
+      "address": "0xC5Cb679b0686F2937F34a6359A454FA8e1ac2777",
+      "symbol": "JUICE",
+      "decimals": 9,
+      "chainId": 81457,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0xC5Cb679b0686F2937F34a6359A454FA8e1ac2777.png"
+    },
+    {
+      "name": "YES",
+      "address": "0x20fE91f17ec9080E3caC2d688b4EcB48C5aC3a9C",
+      "symbol": "YES",
+      "decimals": 18,
+      "chainId": 81457,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0x20fE91f17ec9080E3caC2d688b4EcB48C5aC3a9C.png"
+    },
+    {
+      "name": "PUMP",
+      "address": "0x216A5a1135A9dab49FA9Ad865E0f22FE22b5630A",
+      "symbol": "PUMP",
+      "decimals": 18,
+      "chainId": 81457,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0x216A5a1135A9dab49FA9Ad865E0f22FE22b5630A.png"
+    },
+    {
+      "name": "Orbit Protocol",
+      "address": "0x42E12D42b3d6C4A74a88A61063856756Ea2DB357",
+      "symbol": "ORBIT",
+      "decimals": 18,
+      "chainId": 81457,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0x42E12D42b3d6C4A74a88A61063856756Ea2DB357.png"
+    },
+    {
+      "name": "MetaStreet V2 Deposit",
+      "address": "0x999f220296B5843b2909Cc5f8b4204AacA5341D8",
+      "symbol": "mwstETH-WPUNKS:40",
+      "decimals": 18,
+      "chainId": 81457,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0x999f220296B5843b2909Cc5f8b4204AacA5341D8.png"
+    },
+    {
+      "name": "MetaStreet V2 Deposit",
+      "address": "0x9a50953716bA58e3d6719Ea5c437452ac578705F",
+      "symbol": "mwstETH-WPUNKS:20",
+      "decimals": 18,
+      "chainId": 81457,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0x9a50953716bA58e3d6719Ea5c437452ac578705F.png"
+    },
+    {
+      "name": "Yield Boosted USDB",
+      "address": "0xF0DBd77230d0a6F6dd40D81417Bc5759d2Ca2C27",
+      "symbol": "USDBx",
+      "decimals": 18,
+      "chainId": 81457,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0xF0DBd77230d0a6F6dd40D81417Bc5759d2Ca2C27.png"
+    },
+    {
+      "name": "Axelar Wrapped USDC",
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "symbol": "axlUSDC",
+      "decimals": 6,
+      "chainId": 81457,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0xEB466342C4d449BC9f53A865D5Cb90586f405215.png"
+    },
+    {
+      "name": "Wand Leveraged ETH",
+      "address": "0x5A7651Dd5C9d72fc4FDD4f9706193F33DFb4122d",
+      "symbol": "ETHx",
+      "decimals": 18,
+      "chainId": 81457,
+      "logoURI": "https://raw.githubusercontent.com/Blaster-Labs/blast-tokenlist/main/assets/0x5A7651Dd5C9d72fc4FDD4f9706193F33DFb4122d.png"
     }
   ]
 }
